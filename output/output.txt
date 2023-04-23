@@ -1,0 +1,6 @@
+base: 0x7ff85f36a000 size: 45056 pattern: 4d 5a
+FOUND SUSPICIOUS FILE!!!!!: BaseThreadInitThunk
+base: 0x7ff860b45000 size: 65536 pattern: 4d 5a
+FOUND SUSPICIOUS FILE!!!!!: BaseThreadInitThunk
+base: 0x7ff861ac2000 size: 4096 pattern: 4d 5a
+FOUND SUSPICIOUS FILE!!!!!: BaseThreadInitThunk
